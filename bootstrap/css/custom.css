@@ -1,0 +1,84 @@
+html,body{
+	height:100%;	
+}
+.tengahin{
+	text-align: center;
+	line-height: 20px;
+	background: #ccc;
+	padding:20px;
+}
+.geser_dikit{
+	padding-left:10px;
+}
+.lebar{
+	width:400px;
+	margin:20px;
+	clear:both;
+}
+nav  {
+	margin-top:20px;
+}
+hr{
+	width:50%;
+	background-color:#8B008B;
+	height:1px;
+	border-top: none;
+}
+table{
+}
+
+.input{
+	width:90%;
+}
+.table{
+	width:100%;}
+	th{
+		text-align:center;}
+		th .satu{
+			width:2%;}
+		th .dua{
+			width:2%;}
+		.td{
+			width:400px;
+		}
+		.kecilin{
+			width:200px;}
+.tr{
+	background-color: #DDA0DD;
+}			
+
+footer{
+	display: block;
+	text-align:center;
+	height:50px;
+	line-height:50px;
+	background:#333;
+	color:#fff;
+margin-top: 20px;
+	position:absolute;
+	bottom:0px;
+
+	width:100%;
+}
+a,h4{
+color:#8B008B;
+}
+.dosen{
+margin-top:50px;
+width:400px;
+/*height:150px;*/
+text-align:center;
+border:none;
+}
+.dosen-wanita{
+width:300px;
+text-align:center;
+}
+img{
+	width:50px;
+	border:3px dotted green;
+	border-radius:50px;
+}
+button{
+	margin-left:20px;
+}
